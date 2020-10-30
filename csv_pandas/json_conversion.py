@@ -1,4 +1,4 @@
-# Convertind csv data into json form manually
+# Converting csv data into json form manually
 
 import pandas as pd 	# import the pandas library and aliasing as pd
 
